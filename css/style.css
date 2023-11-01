@@ -661,7 +661,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #e7d619;
+  color: #DF0B0A;
   text-transform: uppercase;
 }
 
@@ -781,7 +781,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #e7d619;
+  color: #DF0B0A;
   text-transform: uppercase;
 }
 
@@ -838,13 +838,13 @@ a:focus {
 }
 
 .food_section .food_container .box .detail-box h6 {
-  color: #e7d619;
+  color: #DF0B0A;
   text-transform: uppercase;
 }
 
 .food_section .food_container .box .detail-box h3 {
   font-weight: bold;
-  color: #e7d619;
+  color: #DF0B0A;
 }
 
 .food_section .food_container .box .detail-box h3 span {
@@ -855,7 +855,7 @@ a:focus {
   display: inline-block;
   padding: 8px 45px;
   background-color: #0a2050;
-  color: #e7d619;
+  color: #DF0B0A;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid #0a2050;
@@ -921,7 +921,7 @@ a:focus {
   position: unset;
   width: 45px;
   height: 45px;
-  background-color: #e7d619;
+  background-color: #DF0B0A;
   opacity: 1;
   border-radius: 100%;
   background-repeat: no-repeat;
@@ -988,11 +988,11 @@ a:focus {
 .contact_section button {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e7d619;
+  background-color: #DF0B0A;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #e7d619;
+  border: 1px solid #DF0B0A;
   border-radius: 0;
   color: #fff;
   margin-top: 35px;
@@ -1000,7 +1000,7 @@ a:focus {
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #e7d619;
+  color: #DF0B0A;
 }
 
 .contact_section .map_container {
