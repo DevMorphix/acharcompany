@@ -855,7 +855,7 @@ a:focus {
   display: inline-block;
   padding: 8px 45px;
   background-color: #0a2050;
-  color: #DF0B0A;
+  color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid #0a2050;
@@ -865,7 +865,7 @@ a:focus {
 
 .food_section .food_container .box .detail-box a:hover {
   background-color: transparent;
-  color: #0a2050;
+  color: #DF0B0A;
 }
 
 .client_section {
